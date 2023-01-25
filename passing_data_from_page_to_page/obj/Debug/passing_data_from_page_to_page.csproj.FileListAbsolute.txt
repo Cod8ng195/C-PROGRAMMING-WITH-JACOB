@@ -1,0 +1,11 @@
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\bin\Debug\passing_data_from_page_to_page.exe.config
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\bin\Debug\passing_data_from_page_to_page.exe
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\bin\Debug\passing_data_from_page_to_page.pdb
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\obj\Debug\passing_data_from_page_to_page.csproj.AssemblyReference.cache
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\obj\Debug\passing_data_from_page_to_page.Properties.Resources.resources
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\obj\Debug\passing_data_from_page_to_page.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\obj\Debug\passing_data_from_page_to_page.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\obj\Debug\passing_data_from_page_to_page.exe
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\obj\Debug\passing_data_from_page_to_page.pdb
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\obj\Debug\passing_data_from_page_to_page.services.resources
+C:\Users\Jacob\source\repos\passing_data_from_page_to_page\obj\Debug\passing_data_from_page_to_page.Signup.resources

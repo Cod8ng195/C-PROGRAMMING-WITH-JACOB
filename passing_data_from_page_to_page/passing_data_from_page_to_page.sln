@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passing_data_from_page_to_page", "passing_data_from_page_to_page.csproj", "{F1F540C8-8076-4C14-8B60-220433E086D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F540C8-8076-4C14-8B60-220433E086D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F540C8-8076-4C14-8B60-220433E086D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F540C8-8076-4C14-8B60-220433E086D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F540C8-8076-4C14-8B60-220433E086D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48FE59F-8E8C-4634-B4CF-832144E232F0}
+	EndGlobalSection
+EndGlobal
