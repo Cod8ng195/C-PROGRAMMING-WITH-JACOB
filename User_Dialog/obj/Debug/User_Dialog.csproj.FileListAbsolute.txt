@@ -1,0 +1,10 @@
+C:\Users\Jacob\source\repos\User_Dialog\bin\Debug\User_Dialog.exe.config
+C:\Users\Jacob\source\repos\User_Dialog\bin\Debug\User_Dialog.exe
+C:\Users\Jacob\source\repos\User_Dialog\bin\Debug\User_Dialog.pdb
+C:\Users\Jacob\source\repos\User_Dialog\obj\Debug\User_Dialog.csproj.AssemblyReference.cache
+C:\Users\Jacob\source\repos\User_Dialog\obj\Debug\User_Dialog.Form1.resources
+C:\Users\Jacob\source\repos\User_Dialog\obj\Debug\User_Dialog.Properties.Resources.resources
+C:\Users\Jacob\source\repos\User_Dialog\obj\Debug\User_Dialog.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\User_Dialog\obj\Debug\User_Dialog.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\User_Dialog\obj\Debug\User_Dialog.exe
+C:\Users\Jacob\source\repos\User_Dialog\obj\Debug\User_Dialog.pdb
